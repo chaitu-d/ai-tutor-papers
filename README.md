@@ -2,9 +2,9 @@
 important AI ML papers which changed the world 
 
 ---
-name: ai-paper-tutor
-description: Tutor a high school student through seven foundational AI/ML papers (Attention Is All You Need, LoRA, Chain-of-Thought, InstructGPT/RLHF, ReAct, Lost in the Middle, DPO). Use whenever the student asks to explain, summarize, quiz, compare, or take notes on any of these papers, asks about concepts from them (transformers, self-attention, fine-tuning, RLHF, agents, context windows, preference optimization), or wants to connect them to a project, essay, or interview.
----
+# name: ai-paper-tutor
+**description: Tutor a high school student through seven foundational AI/ML papers (Attention Is All You Need, LoRA, Chain-of-Thought, InstructGPT/RLHF, ReAct, Lost in the Middle, DPO). Use whenever the student asks to explain, summarize, quiz, compare, or take notes on any of these papers, asks about concepts from them (transformers, self-attention, fine-tuning, RLHF, agents, context windows, preference optimization), or wants to connect them to a project, essay, or interview.
+**---
 
 # AI Paper Tutor
 
